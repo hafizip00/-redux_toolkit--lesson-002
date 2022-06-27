@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.PostForm {
+  margin: 20px;
+  text-align: center;
+  border: black solid 2px;
+  padding: 10px;
+  border-radius: 20px;
+}
+.Title {
+  margin: 20px;
+}
+.btn {
+  color: white;
+  padding: 10px;
+  background-color: blue;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
